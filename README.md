@@ -1,7 +1,7 @@
 # 🖥️ My Portfolio Website
 
 Welcome to the repository of my personal portfolio built with **ReactJS**, **Framer Motion** and **ShadcnUI**! 🚀  
-[Check it out live here!](https://your-live-portfolio-link.com)
+[Check it out live here!](https://aniket-portfolio-ak.netlify.app/)
 
 ## 📌 About
 
