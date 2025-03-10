@@ -7,16 +7,16 @@ export const data = {
   about: `
         Hello!! 👋 I'm Aniket, a backend-focused developer with strong skills in Javascript, Nodejs, and Express Rest Framework, complemented by full-stack experience. I specialize in building reliable and scalable backend systems, while also working across the stack to create cohesive and engaging web applications.\n
         \n
-        With over a year of professional experience, I have developed RESTful APIs, designed efficient database schemas, and implemented business logic, ensuring performance and security. On the frontend, I enjoy crafting responsive interfaces and delivering seamless user experiences. My goal is to build end-to-end solutions that not only solve problems but also delight users with intuitive design and smooth functionality.
+        With over 2 years of professional experience, I have developed RESTful APIs, designed efficient database schemas, and implemented business logic, ensuring performance and security. On the frontend, I enjoy crafting responsive interfaces and delivering seamless user experiences. My goal is to build end-to-end solutions that not only solve problems but also delight users with intuitive design and smooth functionality.
         \n\n
         When I'm not coding, I stay engaged with industry trends, contribute to projects, and focus on growing my skills in microservices, Docker, and Kubernetes.
         \n   
         `,
   experiences: [
     {
-      role: "MERN Stack Intern",
-      company: "Criada",
-      period: "December 2023 - April 2024",
+      role: "MERN Stack Developer",
+      company: "Ajkart",
+      period: "Feb 2023 - Current",
       responsibilities: [
         "Developed and maintained scalable web applications using ReactJs and Express, implementing REST APIs for seamless data exchange between client and server.",
         "Utilized Docker to containerize applications, ensuring consistency across development, testing, and production environments.",
@@ -117,9 +117,8 @@ export const data = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1XMZ2iEI26taix_v9RIsa_1Kt2A4vlC6T/view?usp=sharing",
-  // photoUrl: "../assests/render-img.jpg",
-  // "https://drive.google.com/thumbnail?id=1RWkgj9zDdA6b2tFmz6ReX05nU5WvUUeA&sz=w1000",
+    "https://drive.google.com/file/d/16fa4Oe_0iN2qnlON4ZlJDILWOBA07wPI/view?usp=sharing",
+
   projects: [
     {
       title: "LiveDocs",
