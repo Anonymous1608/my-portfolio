@@ -15,7 +15,7 @@ export const data = {
   experiences: [
     {
       role: "MERN Stack Developer",
-      company: "Ajkart",
+      company: "Euro Info Pvt Ltd",
       period: "Feb 2023 - Current",
       responsibilities: [
         "Developed and maintained scalable web applications using ReactJs and Express, implementing REST APIs for seamless data exchange between client and server.",
