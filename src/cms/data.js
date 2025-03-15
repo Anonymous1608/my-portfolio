@@ -117,7 +117,7 @@ export const data = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/16fa4Oe_0iN2qnlON4ZlJDILWOBA07wPI/view?usp=sharing",
+    "https://drive.google.com/file/d/152YUe-0_PSOicnGGUEOeNoSN5v0Y24tk/view?usp=sharing",
 
   projects: [
     {
