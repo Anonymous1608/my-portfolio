@@ -7,7 +7,7 @@ export default function Footer({ socialLinks }) {
     <footer className="bg-background/80 backdrop-blur-sm py-6">
       <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
         <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-          © 2024 Aniket. All rights reserved.
+          © 2025 Aniket. All rights reserved.
         </p>
         <div className="flex space-x-4">
           <Button

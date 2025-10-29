@@ -104,7 +104,11 @@ export const data = {
       level: "Intermediate",
     },
     {
-      name: "Bootstrap",
+      name: "Prisma ORM",
+      level: "Intermediate",
+    },
+    {
+      name: "Kubernetes",
       level: "Intermediate",
     },
   ],
