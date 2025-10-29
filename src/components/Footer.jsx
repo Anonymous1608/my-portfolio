@@ -3,11 +3,12 @@
 import { Button } from "@/components/ui/button";
 import { FaXTwitter, FaLinkedinIn, FaGithub } from "react-icons/fa6";
 export default function Footer({ socialLinks }) {
+  const currentYear = new Date().getFullYear();
   return (
     <footer className="bg-background/80 backdrop-blur-sm py-6">
       <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
         <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-          © 2025 Aniket. All rights reserved.
+          © {currentYear} Aniket. All rights reserved.
         </p>
         <div className="flex space-x-4">
           <Button
