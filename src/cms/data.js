@@ -1,22 +1,22 @@
 export const data = {
   name: "Aniket Kalbande",
-  role: "Software Engineer || Backend Enthusiast",
+  role: "Software Engineer || Full Stack Developer",
   description:
-    "Building efficient and scalable backend systems with a focus on clean code and optimized performance.",
+    "Building scalable, end-to-end web solutions with a focus on robust backends, intuitive user interfaces, and optimized performance.",
   logo: "\\ Aniket.. ",
   about: `
-        Hello!! 👋 I'm Aniket, a backend-focused developer with strong skills in Javascript, Nodejs, and Express Rest Framework, complemented by full-stack experience. I specialize in building reliable and scalable backend systems, while also working across the stack to create cohesive and engaging web applications.\n
+        Hello!! 👋 I'm Aniket, a passionate Full Stack Developer with strong expertise in the MERN stack (MongoDB, Express, React, Node.js) and Next.js. I thrive on building comprehensive web applications that seamlessly integrate powerful backends with dynamic, user-centric frontends.\n
         \n
-        With over 2 years of professional experience, I have developed RESTful APIs, designed efficient database schemas, and implemented business logic, ensuring performance and security. On the frontend, I enjoy crafting responsive interfaces and delivering seamless user experiences. My goal is to build end-to-end solutions that not only solve problems but also delight users with intuitive design and smooth functionality.
+        With over 2 years of professional experience, I handle the complete development lifecycle — from designing efficient database schemas and scalable RESTful APIs to crafting responsive, modern user interfaces. I am committed to writing clean, maintainable code and ensuring high performance and security across every layer of the application. My goal is to deliver polished, end-to-end solutions that solve real-world problems and provide exceptional user experiences.
         \n\n
-        When I'm not coding, I stay engaged with industry trends, contribute to projects, and focus on growing my skills in microservices, Docker, and Kubernetes.
+        When I'm not coding, I stay engaged with industry trends, contribute to open-source projects, and constantly expand my skillset in microservices, Docker, and cloud technologies.
         \n   
         `,
   experiences: [
     {
       role: "MERN Stack Developer",
       company: "Euro Info Pvt Ltd",
-      period: "Feb 2023 - Current",
+      period: "Oct 2023 - Current",
       responsibilities: [
         "Developed and maintained scalable web applications using ReactJs and Express, implementing REST APIs for seamless data exchange between client and server.",
         "Utilized Docker to containerize applications, ensuring consistency across development, testing, and production environments.",
@@ -121,7 +121,7 @@ export const data = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/152YUe-0_PSOicnGGUEOeNoSN5v0Y24tk/view?usp=sharing",
+    "https://drive.google.com/file/d/1BRk5nGINU1FPqDh0JBXwqhMRuHFyCyVT/view?usp=drive_link",
 
   projects: [
     {
